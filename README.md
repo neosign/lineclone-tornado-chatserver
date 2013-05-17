@@ -1,10 +1,11 @@
 lineclone-tornado-chatserver
 ============================
 
-Websocket Chat Server based on Line Chat Application written by Python - Tornado and Use Hadoop Hbase
-- Chat Server uses Tornado & Python
-- Databases uses Redis and HBase
-- Application Android + HTML5 + WebSocket
-First Contribuiton by Aggarat <neosign@gmail.com> Founder of BIGDATA community in THAILAND
+Chat Server + Android Application [Line Clone App]
+- [Server Side] Chat Server uses Tornado & Python [chat-server folder]
+- [Server Side] Databases uses Redis and HBase [chat-server folder]
+- [Client Side ]Application Android + WebSocket[android-app folder]
+- [Client Side ]Web Chat + WebSocket [web-app folder]
+First contribution was done by Aggarat <neosign@gmail.com> founder of Big Data community in Thailand
 Facebook Page : https://www.facebook.com/pages/Bigdata/336405566451770 <--Like it or die
 
